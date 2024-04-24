@@ -3355,6 +3355,9 @@ a:hover {
     .pricing-box-btm {
         padding: 12px 13px;
     }
+    .section-pricing .devided-col-4 {
+        max-width: 100%;
+    }
     .pricing-box-btm .pricing-box-btm-select {
         margin: 15px 0 0;
     }
